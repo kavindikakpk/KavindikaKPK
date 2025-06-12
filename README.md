@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kavindika Kurundugahamada!
+# 👋 Hi, I'm Kavindika Prathibhani!
 
 🎓 MSc in Data Science  
 💼 Financial Analyst | Data Analyst  
