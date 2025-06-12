@@ -47,15 +47,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavindikaKurundugahamada&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavindikaKurundugahamada&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kavindika-prathibhani-9a14a2201/)
