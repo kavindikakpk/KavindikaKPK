@@ -17,6 +17,20 @@
 
 ---
 
+---
+
+### 🧠 Skills
+
+<p align="center">
+  <a href="https://github.com/kavindikakpk/Software-Engineering-Roadmap" target="_blank">
+    <img src="https://img.shields.io/badge/Software%20Engineering-Explore-blue?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineering Badge" />
+  </a>
+</p>
+
+> I’m currently learning **Software Engineering** from the ground up — covering SDLC, system design, Git workflows, testing, and building a full-featured project. Click the button above to check out my progress!
+
+---
+
 ### 🔧 Tools & Technologies
 
 <p align="left">
