@@ -34,13 +34,13 @@
 ### 🔧 Tools & Technologies
 
 <p align="left">
+  <a href="https://github.com/kavindikakpk/Power-Query">
+    <img src="https://img.shields.io/badge/Power%20Query-5B9BD5?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  </a>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <a href="https://github.com/kavindikakpk/Power-Query">
-    <img src="https://img.shields.io/badge/Power%20Query-5B9BD5?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  </a>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
